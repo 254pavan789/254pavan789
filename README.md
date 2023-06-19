@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/254pavan789/254pavan789/blob/main/Pavan%20Kumar.png)
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru, Karnataka</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif">
